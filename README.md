@@ -2,6 +2,9 @@
 
 Welcome to the Snake Game Development project. In this project, we aim to design, implement, and test a snake game that is both entertaining and challenging. We leverage the power of the `autogen` library, a framework by Microsoft, to facilitate collaboration between different agents, each with its unique role.
 
+![image](https://github.com/Poly186-AI-DAO/AutoGen-Snake-Game/assets/7855677/064a82d1-4814-4204-a171-fda7112d0f3e)
+
+
 ## Table of Contents
 
 - [Overview](#overview)
