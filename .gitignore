@@ -1,7 +1,5 @@
  ./
 
-
-autogen\.cache
-autogen/.cache/
+.cache/
 
 .env
