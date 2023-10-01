@@ -4,7 +4,7 @@ from autogen import AssistantAgent, UserProxyAgent, config_list_from_json, Group
 config_list_gpt4 = config_list_from_json(
     "../OAI_CONFIG_LIST.json",
     filter_dict={
-        "model": ["gpt-4-0613, gpt-4-32k, gpt-4, gpt-4-0314"],
+        "model": ["gpt-4-0613", "gpt-4-32k", "gpt-4", "gpt-4-0314"],
     },
 )
 
